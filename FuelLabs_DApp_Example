@@ -1,0 +1,13 @@
+FuelLabs_DApp_Example/
+|-- contracts/              // Solidity smart contracts
+|   |-- MyToken.sol
+|-- frontend/               // Frontend code
+|   |-- index.html
+|   |-- styles.css
+|   |-- scripts.js
+|-- backend/                // Backend code
+|   |-- server.js
+|-- tests/                  // Test scripts
+|   |-- testMyToken.js
+|-- README.md               // Project documentation
+|-- .gitignore              // Git ignore file
